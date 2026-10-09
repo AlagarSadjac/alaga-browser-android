@@ -11,6 +11,8 @@ IDE     : Android Studio
 Component: WebView
 Version Control: Git & GitHub
 
+### 📥 Download APK
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/AlagarSadjac/alaga-browser-android/releases/download/v1.0.0/app-release.apk)
 
 ▶️ How to Run....
 Repository-யை clone பண்ணுங்க
