@@ -7,14 +7,8 @@ A fast, lightweight, and clean Android web browser application built using Java 
 ## 📥 Download App
 Click below to download the latest APK file and install it directly on your Android device[span_2](start_span)[span_2](end_span):
 
-[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-success?style=for-the-badge&logo=android)](https://github.com/AlagarSadjac/alaga-browser-android/releases/latest)
-  
-![Browser1](https://github.com/user-attachments/assets/8c34a863-7069-4b53-91e2-3b4523955b31)
-![Browser2](https://github.com/user-attachments/assets/d0099a1a-c911-4dfb-a473-cd987eb2df37)
-![Browser3](https://github.com/user-attachments/assets/0cb82818-0dc0-4a28-b2cb-01079180e897)
-![Browser4](https://github.com/user-attachments/assets/dd369d32-a9f4-4d9e-8665-0e60dc4b8d28)
-
----
+[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-success?style=for-the-badge&logo=android)](https://github.com/AlagarSadjac/alaga-browser-android/releases/download/v1.0.0/app-debug.apk)
+  ---
 
 ## ✨ Key Features
 * 🚀 **Fast & Smooth:** Optimized WebView configuration for quick page loads[span_4](start_span)[span_4](end_span)[span_5](start_span)[span_5](end_span).
@@ -23,6 +17,10 @@ Click below to download the latest APK file and install it directly on your Andr
 * 🎨 **Clean & Minimal UI:** Clutter-free interface focused on a direct browsing experience[span_10](start_span)[span_10](end_span).
 
 ---
+![Browser1](https://github.com/user-attachments/assets/8c34a863-7069-4b53-91e2-3b4523955b31)
+![Browser2](https://github.com/user-attachments/assets/d0099a1a-c911-4dfb-a473-cd987eb2df37)
+![Browser3](https://github.com/user-attachments/assets/0cb82818-0dc0-4a28-b2cb-01079180e897)
+
 
 ## 🛠️ Tech Stack & Tools
 * **Platform:** Android[span_11](start_span)[span_11](end_span)
