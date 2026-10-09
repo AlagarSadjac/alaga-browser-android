@@ -24,7 +24,7 @@ Emulator அல்லது mobile-ல Run பண்ணுங்க
 
 
 
-📦 APK Download 👉 [Download APK](https://github.com/AlagarSadjac/AlagaBrowser/releases/download/V1.0/app-debug.apk )
+📦 APK Download 👉 [Download APK](https://github.com/AlagarSadjac/AlagaBrowser/releases/download/V1.0/app-debug.apk)
 
 
 
