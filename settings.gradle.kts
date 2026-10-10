@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AlagaBrowser"
+rootProject.name = "alaga-browser-android"
 include(":app")
  
