@@ -66,5 +66,10 @@ The objective of this project is to implement a robust, lightweight Android brow
 
 ---
 
+## 👨‍💻 Developed By
+Alagarsamy — Software Developer
+
+---
+
 ## ⭐ Support
-If you find this project useful, please consider giving this repository a **Star (⭐)**!
+If you find this project useful, please consider giving this repository a **Star (⭐)** !
